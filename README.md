@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jarek Kaminski  Future iOS Developer. I've been learning programming for a year. I started with the basics of C, Python, JS and Web design. My greatest passion are mobile applications. That's why I choose Swift and iOS.  
 * 🌍  I'm based in Exeter UK.
-* 🚀  I'm currently working on [TracksApp - Suzuki Car Dealer App. Work In Progress.](http://a). 
 * 🧠  I'm learning Everything From Swift. 
 * ⚡  Musician, Traveler, Good Friend.
 
