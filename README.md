@@ -1,16 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jarek Kaminski  Future iOS Developer. I've been learning programming for a year. I started with the basics of C, Python, JS and Web design. My greatest passion are mobile applications. That's why I choose Swift and iOS.  
-* 🌍  I'm based in Exeter UK.
-* 🧠  I'm learning Everything From Swift. 
-* ⚡  Musician, Traveler, Good Friend.
-
-### Skills  
-
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a> </p> 
-Socials  <p align="left"> <a href="https://discord.com/users/elzabek86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/jarek.kaminski.73" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/elzabek86" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jare.k.aminski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@KaminskiJarek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+# 💫 About Me:
+I am a highly motivated person with a strong passion for staying current with the latest technologies and trends in the iOS mobile application field. My diverse professional background equips me with a unique skill set and a practical perspective that I bring to my journey of becoming a proficient mobile app developer. Since October 2022, I have been dedicated to learning iOS programming and am currently enrolled in the Apple App Development Bootcamp at Exeter College, where I collaborate effectively in team environments. I am committed to delivering high-quality work and am eager to contribute to the dynamic world of iOS app development.<br><br><br>🌍  I'm based in Exeter UK<br>🔭 Renowned App - Hair And Beauty Salon App<br>🌱 React Native - Learning in progress<br>⚡ Musician, Traveler, Good Friend
 
 
-<b>My GitHub Stats</b>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jarek.kaminski.73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/jarek-kamiński-b83248295) 
 
-<a href="http://www.github.com/elzabek86"><img src="https://github-readme-stats.vercel.app/api?username=elzabek86&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=22c55e&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="elzabek86's GitHub stats" /></a>
-<a href="http://www.github.com/elzabek86"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=elzabek86&bg_color=171717&color=22c55e&line=facc15&point=22c55e&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/elzabek86" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzabek86&langs_count=10&title_color=6366f1&text_color=22c55e&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=elzabek86&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elzabek86&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elzabek86&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=elzabek86&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
